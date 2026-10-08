@@ -1,4 +1,4 @@
-# Cargills Ceylon PLC – Optimal Routing Analysis
+# Cargills Ceylon PLC – Traveling Salesman Problem
 
 Operations Research assignment (226044G).
 
@@ -12,7 +12,7 @@ This project determines the shortest route to distribute rice (in bulk quantitie
 
 | File | Description |
 |---|---|
-| `226044G_OR_Assignment.xlsx` | Excel workbook with the data, workings and final answer |
+| `OR_Assignment.xlsx` | Excel workbook with the data, workings and final answer |
 | `docs/Cargills_Optimal_Routing_Analysis.pdf` | Report: assumptions, formulations and discussion |
 
 Workbook sheets:
